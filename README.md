@@ -1,1 +1,1 @@
-# discountsflowers.github.io
+<iframe src="https://money.yandex.ru/quickpay/shop-widget?writer=buyer&targets=&targets-hint=&default-sum=&button-text=11&payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410019133077972" width="423" height="215" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
